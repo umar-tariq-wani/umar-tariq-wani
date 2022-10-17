@@ -21,6 +21,7 @@ I love to meet new people with different experiences from my own, and it can inf
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/umarwani55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="umarwani55" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/umarwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umarwani" height="30" width="40" /></a>
-<a href="https://instagram.com/umarwani09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="umarwani09" height="30" width="40" /></a>
+<a href="https://twitter.com/umar_tariq_wani" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/twitter-circled.png" alt="umar_tariq_wani" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/umarwani" target="blank"><img align="center" src="https://img.icons8.com/bubbles/452/linkedin.png" alt="umarwani" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/umarwani09" target="blank"><img align="center" src="https://img.icons8.com/bubbles/344/instagram-new--v2.png" alt="umarwani09" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;
+</p>  
