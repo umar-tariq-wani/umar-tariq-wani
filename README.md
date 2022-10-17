@@ -2,8 +2,6 @@
 
 
 
-Let's find the optimal solution
-
 I am a Web Developer from Kashmir. I attribute my creative roots from living around the beautiful city. In my career, I’ve had the privilege to work in many different industries such as travel agencies, design agencies, IT companies, and private clients. I have a good command over Web Development and also on Adobe suite products like Photoshop and Illustrator. 
 
 I love to meet new people with different experiences from my own, and it can influence my work and give me new perspectives to focus on and achieve my goals.
